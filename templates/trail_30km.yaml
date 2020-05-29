@@ -1,0 +1,121 @@
+meta:
+  Clarifications:
+    Hill Workouts: 6-8% Grade
+  abbreviations:
+    CU: Cool Down
+    M: mile
+    WU: Warm Up
+    e2m: easy to moderate
+    m3h: moderate to hard
+  source: https://www.outsideonline.com/2394888/how-train-trail-half-marathon
+  templateName: 13.1 M Easy
+  raceDay: 12.7
+schedule:
+  week 01:
+    day 1: Rest
+    day 2: 2M easy
+    day 3: 2M WU, 6x30 sec hill (m2h), 90 sec recovery, 2 M CD
+    day 4: 2M easy
+    day 5: Rest
+    day 6: 4M easy - trails
+    day 7: 2M, 4x20 sec hill (m2h), 2 min recovery - trails
+    total: 15 M
+  week 02:
+    day 1: Rest
+    day 2: 2M, 4x30 (m2h), 2 min recovery
+    day 3: 2M WU, 6x20 sec interval (m2h), 2 min recovery, 2 M CD
+    day 4: 2M easy
+    day 5: Rest
+    day 6: 5M easy - trails
+    day 7: 2M, 4x20 sec hill (m2h), 2 min recovery - trails
+    total: 18 M
+  week 03:
+    day 1: Rest
+    day 2: 3M easy
+    day 3: 5M WU, 8x20 sec interval (m2h), 90 sec recovery
+    day 4: 2M easy
+    day 5: Rest
+    day 6: 6M easy - trails
+    day 7: 4M, 4x20 sec hill (m2h), 2 min recovery - trails
+    total: 20 M
+  week 04:
+    day 1: Rest
+    day 2: 2M easy, 4x20 sec hill (m2h), 90 sec recovery
+    day 3: 5M WU, 8x30 sec interval (m2h), 60 sec recovery
+    day 4: 3M easy
+    day 5: Rest
+    day 6: 6M easy - trails
+    day 7: 4M, 4x20 sec hill (m2h), 2 min recovery - trails
+    total: 21 M
+  week 05:
+    day 1: Rest
+    day 2: 3M easy
+    day 3: 6M easy hills
+    day 4: 3M easy
+    day 5: Rest
+    day 6: 8M easy - trails
+    day 7: 4M, 4x30 sec hill (m2h), 2 min recovery - trails
+    total: 25 M
+  week 06:
+    day 1: Rest
+    day 2: 3M easy, 4x20, 1 min recovery
+    day 3: 2M WU, 10x60 sec interval, 1 min off, 2M CD
+    day 4: 3M easy
+    day 5: Rest
+    day 6: 6M easy - trails
+    day 7: 4M, 4x20 sec hill (m2h), 2 min recovery - trails
+    total: 22 M
+  week 07:
+    day 1: Rest
+    day 2: 4M easy, 4x20, 2 min recovery
+    day 3: 2M WU, 8x120 sec interval, 1 min off, 2M CD
+    day 4: 3M easy
+    day 5: Rest
+    day 6: 8M tempo
+    day 7: 4M easy
+    total: 26 M
+  week 08:
+    day 1: Rest
+    day 2: 4M easy, 4x20, 1 min recovery
+    day 3: 2M WU, 5x3 min hill, 3 min recovery (downhill), 2M CD
+    day 4: 4M easy
+    day 5: Rest
+    day 6: 10M moderate
+    day 7: 4M easy
+    total: 29 M
+  week 09:
+    day 1: Rest
+    day 2: 4M easy
+    day 3: 2M WU, 20 min hard, 2M CD
+    day 4: 4M easy
+    day 5: Rest
+    day 6: 12M tempo hard
+    day 7: 4M easy
+    total: 30 M
+  week 10:
+    day 1: Rest
+    day 2: 4M easy, 4x20, 1 min recovery
+    day 3: 2M WU, 5x3 min hill, 3 min recovery (downhill), 2M CD
+    day 4: 4M easy
+    day 5: Rest
+    day 6: 14M moderate
+    day 7: 4M easy
+    total: 32 M
+  week 11:
+    day 1: Rest
+    day 2: 4M easy, 4x20 sec interval, 2 min recovery
+    day 3: 2M WU, 8x3 min interval (moderate), 1 min recovery, 2M CD
+    day 4: 4M easy
+    day 5: Rest
+    day 6: 10M moderate
+    day 7: 3M easy
+    total: 29 M
+  week 12:
+    day 1: Rest
+    day 2: 2M easy
+    day 3: 2M WU, 15 min m2h, 2M CD
+    day 4: 3M easy
+    day 5: Rest
+    day 6: 2M easy, morning
+    day 7: Race Day - 30 km
+    total: 33 M

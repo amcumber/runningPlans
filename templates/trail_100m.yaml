@@ -1,0 +1,445 @@
+meta:
+  info: if monthly milage is 180-200 can move to month 4 or have done a 50M in last 2 months
+  abbreviations:
+    CU: Cool Down
+    M: mile
+    WU: Warm Up
+    ar: active recovery
+    e: easy
+    mix: mix between easy and steady
+  source: Running Your First Ultra - Krissy Moehl
+  templateName: 100M
+  raceDay: 48.6
+schedule:
+  week 01:
+    day 1: 4-6M e, core
+    day 2: 15m WU, PYRAMID HILL (2,4,6,4,2) w equal recovery, 15m CD
+    day 3: 6M e
+    day 4: Rest -or- ar 35m
+    day 5: 5-7M, core
+    day 6: 10-12M
+    day 7: 7-9M
+    total: 45 M
+  week 02:
+    day 1: Rest
+    day 2: 5M, core
+    day 3: 15m WU, RLADDER (10,8,6,3,2,1) w 1/2t recovery, 15CD
+    day 4: Rest, ar 40min
+    day 5: 6-8M e, core
+    day 6: 12-14M
+    day 7: 10-12M
+    total: 49 M
+  week 03:
+    day 1: 45m, core
+    day 2: 5-8M e
+    day 3: 15-20m WU, 5x5m HILL w 1m recovery, 15m CD
+    day 4: 5M e, core
+    day 5: Rest
+    day 6: 18-20M
+    day 7: 14-16M
+    total: 57 M
+  week 04:
+    day 1: Rest
+    day 2: 3-5M e, core
+    day 3: 5M e -or- 45-60m
+    day 4: Rest, core
+    day 5: 5-8M
+    day 6: 6-10M e
+    day 7: Rest
+    total: 28 M
+  week 05:
+    day 1: 5M, core
+    day 2: 15-20m WU, PYRAMID SPEED (1,2,3,4,3,2,1) w equal recovery, 15m CD
+    day 3: Rest, core
+    day 4: 5-8M e
+    day 5: 15m WU, HILL 3x6-8m PH w 3m recovery, 10m e, 5x30s surge w 1m recovery, 15m CD
+    day 6: 8-10M e
+    day 7: 18M
+    total: 62 M
+  week 06:
+    day 1: Rest, core
+    day 2: 6-8M e
+    day 3: 15m WU, 5-6x5m w 1m recovery, 15m CD
+    day 4: 8-10M
+    day 5: 5M e, core
+    day 6: 18-20M
+    day 7: 6-8M
+    total: 61 M
+  week 07:
+    day 1: Rest
+    day 2: 9M mix
+    day 3: 5M, core
+    day 4: 14-20 WU, HILL 4x6m w 3m r, 5m e, 3x2m w 1m r, 5m e, 3x30s w 90s r, 15M CD
+    day 5: 5M e, core
+    day 6: 20-22M
+    day 7: 9-11M
+    total: 63 M
+  week 08:
+    day 1: Rest
+    day 2: 5M e, core
+    day 3: 45-60
+    day 4: 8M e
+    day 5: Rest, core
+    day 6: 5-6M e
+    day 7: 6-10M
+    total: 29 M
+  week 09:
+    day 1: 5-6M
+    day 2: 15m WU, PYRAMID SPEED (1,2,3,4,3,2,1) w equal r, 15m CD
+    day 3: 6M e, core
+    day 4: 10-12M
+    day 5: Rest, core
+    day 6: 18
+    day 7: 10-14
+    total: 66 M
+  week 10:
+    day 1: 5-6M e, core
+    day 2: 8M
+    day 3: 15m WU, 5-6x5m w 1m r, 15m CD
+    day 4: 5M e, core
+    day 5: 8M
+    day 6: 20M
+    day 7: 15M
+    total: 72 M
+  week 11:
+    day 1: Rest
+    day 2: 6-8M e, core
+    day 3: 15m WU, 6-7x5m w 1m recovery, 15m CD
+    day 4: 5-8M e, core
+    day 5: 7-9M
+    day 6: 22-24M
+    day 7: 15-18M
+    total: 78 M
+  week 12:
+    day 1: 4-6M e -or- 45m
+    day 2: Rest, core
+    day 3: 5M e
+    day 4: 8M e
+    day 5: 60m, core
+    day 6: 10M
+    day 7: 5-6M e
+    total: 35 M
+  week 13:
+    day 1: 6-8M e, core
+    day 2: 15m WU, SPEED 6-7x5m w 1m recovery, 15m CD
+    day 3: 5M e, core
+    day 4: 12M
+    day 5: Rest
+    day 6: 18-22M
+    day 7: 10-12M
+    total: 68 M
+  week 14:
+    day 1: 4-6M e, core
+    day 2: 15m WU, 7-8x5m w 1m recovery, 15m CD
+    day 3: 10-14M
+    day 4: 5M e, core
+    day 5: Rest
+    day 6: 12-14M
+    day 7: 8-10M
+    total: 30 M - taper for 50k
+  week 15:
+    day 1: 6-8M e, core
+    day 2: 8M mix
+    day 3: 5M -or- 45m, core
+    day 4: Rest
+    day 5: 3M e, 4x100 strides
+    day 6: 50km -or- 50M race
+    day 7: 5M -or- 45m
+    total: 50 M - 50k/50M race
+  week 16:
+    day 1: 4-6M e -or- 45m
+    day 2: Rest, core
+    day 3: 5M e
+    day 4: 8M e
+    day 5: 45-60m, core
+    day 6: 10M e
+    day 7: 5-6M e
+    total: 35 M
+  week 17:
+    day 1: 6-8M e, core
+    day 2: 15-20m WU, PYRAMID (2,4,6,6,4,2,1,30s) w 1/2t r, 15M CD
+    day 3: 5M e, core
+    day 4: 20m WU, HILL 2x8-10m PH w 4m r, 5-10m jog, 3x5M run hill w 1/2t r, 10m jog, 3-5x30-45s uphill, 10-15m CD
+    day 5: Rest
+    day 6: 18-22M
+    day 7: 10-12M
+    total: 67 M
+  week 18:
+    day 1: 45m -or- rest
+    day 2: 15-20m WU, 6x5m w 1m r, 15M CD
+    day 3: 10-12M e
+    day 4: 4M e, core
+    day 5: 14-16M -or- 20m WU, 2x8-10m PH w 4m r, 3x5m run hill w 1/2t r, 10m jog, 3-5x30-45s uphill, 15m CD
+    day 6: 13-15M
+    day 7: 22-24M
+    total: 79 M
+  week 19:
+    day 1: Rest
+    day 2: 8M e, core
+    day 3: 15m WU, 7-8x5m w 1m r, 15m CD
+    day 4: 6M e, core
+    day 5: 18M
+    day 6: 28-30M
+    day 7: 10-12M
+    total: 86 M
+  week 20:
+    day 1: 4-6M e -or- 45m
+    day 2: Rest, core
+    day 3: 5M e
+    day 4: 8M e
+    day 5: 60m, core
+    day 6: 10M e
+    day 7: 5-6M e
+    total: 35 M
+  week 21:
+    day 1: 8M e, core
+    day 2: 15m WU, SPEED (1,3,4,6,4,3,2,2) w 1/2t r, 5-10m jog, 2x1m full r, 2x30s full r, 15m CD
+    day 3: 5M e, core
+    day 4: 20m WU, HILL 2x8-10m PH w 4m dh, 5-10m jog, 3x5m run hill 1/2 r, 10m jog, 3-5x30-45s w full r, 15m CD
+    day 5: 6M e
+    day 6: 26-28M
+    day 7: 10-12M
+    total: 79 M
+  week 22:
+    day 1: Rest
+    day 2: 8M e, core
+    day 3: 15m WU, 7x5m w 1m r, 15m CD
+    day 4: 5-8M, core
+    day 5: 12-14M
+    day 6: 28M
+    day 7: 15-18M
+    total: 86 M
+  week 23:
+    day 1: Rest
+    day 2: 8M e, core
+    day 3: 15m WU, 7-8x5m w 1m r, 15m CD
+    day 4: 5-8M, core
+    day 5: 12-14M
+    day 6: 28-30M
+    day 7: 18M
+    total: 90 M
+  week 24:
+    day 1: Rest
+    day 2: 4-5M e, core
+    day 3: 8M e
+    day 4: Rest, core
+    day 5: 6-8M e
+    day 6: 10M e
+    day 7: Rest -or- 5-6M e
+    total: 37 M
+  week 25:
+    day 1: 8M e, core
+    day 2: 20m WU, HILL 3x8-10m PH w 4m r, 5-10m jog, 2x5m run hill 1/2t r, 10m jog, 3-5x30-45s w full r, 15m CD
+    day 3: 6-8M e, core
+    day 4: Rest -or- ar/35-45m
+    day 5: 10M mix
+    day 6: 30-34M
+    day 7: 10M e
+    total: 80 M
+  week 26:
+    day 1: Rest, core
+    day 2: 20m WU, HILL 6-7x5m (1mr), 15m CD
+    day 3: 8M e, core
+    day 4: 5-7M
+    day 5: 12-14M
+    day 6: 40M
+    day 7: 8-10e
+    total: 80 M
+  week 27:
+    day 1: Rest, core
+    day 2: 12-15 hilly
+    day 3: 5-6Me, core
+    day 4: Rest
+    day 5: 14M
+    day 6: 45M
+    day 7: 10M e
+    total: 84 M
+  week 28:
+    day 1: Dealers Choice
+    day 2: Dealers Choice
+    day 3: Dealers Choice
+    day 4: Dealers Choice
+    day 5: Dealers Choice
+    day 6: Dealers Choice
+    day 7: Dealers Choice
+    total: 35 M
+  week 29:
+    day 1: Rest -or- 45m
+    day 2: 20m WU, 6-7x5m(1mr), 15m CD
+    day 3: 8-10e, core
+    day 4: 5-10M
+    day 5: 5-10M, core
+    day 6: 25-28M
+    day 7: 12-14M
+    total: 82 M
+  week 30:
+    day 1: Rest, core
+    day 2: 20m WU, PYRAMID 2,4,6,4,2 (1/2tr), 5-10m Jog, 2x1,2x30 (fullt), 15m CD
+    day 3: 10-14M
+    day 4: 5M, core
+    day 5: Rest
+    day 6: 20M
+    day 7: 8-10M
+    total: 58 M - NOTE Alternate if not running a 100k
+  week 31:
+    day 1: 6-8M e, core
+    day 2: 8M, mix
+    day 3: 10M e, core
+    day 4: Rest -or- 45m
+    day 5: 3-5M e, 4x100meter strides
+    day 6: 50M -or- 100km race
+    day 7: 90m-2hr ar -or- 10-12M
+    total: 37M+100k - NOTE Alternate if not running Race
+  week 32:
+    day 1: Rest
+    day 2: Core and 4-5M e, -or- 45m
+    day 3: 8M e
+    day 4: Rest, core
+    day 5: 6-8M e
+    day 6: 10M e
+    day 7: Rest -or- 4-6M e
+    total: 32 M recovery
+  week 33:
+    day 1: Rest -or- 4-6M e
+    day 2: 8M, core
+    day 3: 1h ar -or- 6M
+    day 4: 8M, core
+    day 5: 6M
+    day 6: 10-12M
+    day 7: 8M e
+    total: 50M recovery
+  week 34:
+    day 1: Rest, core
+    day 2: 6-8M e
+    day 3: 15m WU, HILL 5x5m(1mr), 20m CD
+    day 4: 8-10M
+    day 5: 5m e, core
+    day 6: 15-18M
+    day 7: 10M
+    total: 49M Recovery
+  week 35:
+    day 1: 6-8M
+    day 2: Rest, core
+    day 3: 6-8M e
+    day 4: 15m WU, 6x5m(1mr), 15-20 - test speed should be faster
+    day 5: 6-8M e, core
+    day 6: 18-20
+    day 7: 10-14M
+    total: 52M
+  week 36:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 37:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 38:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 39:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 40:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 41:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 42:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 43:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 44:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 45:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 46:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 47:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD
+  week 48:
+    day 1: TBD
+    day 2: TBD
+    day 3: TBD
+    day 4: TBD
+    day 5: TBD
+    day 6: TBD
+    day 7: TBD
+    total: TBD

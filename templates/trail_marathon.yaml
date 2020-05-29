@@ -1,0 +1,151 @@
+meta:
+  abbreviations:
+    M: mile
+  raceDay: 16.7
+schedule:
+  week 01:
+    day 1: 30 min hills
+    day 2: 4M easy
+    day 3: 30 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 8M
+    day 7: Rest
+    total: ''
+  week 02:
+    day 1: 15 min speed
+    day 2: 4M easy
+    day 3: 35 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 10M
+    day 7: Rest
+    total: ''
+  week 03:
+    day 1: 35 min hill
+    day 2: 4M easy
+    day 3: 30 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 12M
+    day 7: Rest
+    total: ''
+  week 04:
+    day 1: 40 min hill
+    day 2: 5M easy
+    day 3: 40 min tempo
+    day 4: Rest
+    day 5: 4M easy
+    day 6: 6M
+    day 7: Rest
+    total: ''
+  week 05:
+    day 1: 20 min speed
+    day 2: 5M easy
+    day 3: 50 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 14M
+    day 7: Rest
+    total: ''
+  week 06:
+    day 1: 45 min hill
+    day 2: 5M easy
+    day 3: 60 min tempo
+    day 4: Rest
+    day 5: 5M easy
+    day 6: 13M
+    day 7: Rest
+    total: ''
+  week 07:
+    day 1: 20 min speed
+    day 2: 6M easy
+    day 3: 50 min tempo
+    day 4: Rest
+    day 5: 4M easy
+    day 6: 16M
+    day 7: Rest
+    total: ''
+  week 08:
+    day 1: 45 min hills
+    day 2: 5M easy
+    day 3: 60 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 17M
+    day 7: Rest
+    total: ''
+  week 09:
+    day 1: 50 min hills
+    day 2: 6M easy
+    day 3: 70 min tempo
+    day 4: Rest
+    day 5: 4M easy
+    day 6: 8M
+    day 7: Rest
+    total: ''
+  week 10:
+    day 1: 25 min speed
+    day 2: 5M easy
+    day 3: 50 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 18M
+    day 7: Rest
+    total: ''
+  week 11:
+    day 1: 40 min hill
+    day 2: 7M easy
+    day 3: 85 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 13M
+    day 7: Rest
+    total: ''
+  week 12:
+    day 1: 20 min hill
+    day 2: 5M easy
+    day 3: 70 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 20M
+    day 7: Rest
+    total: ''
+  week 13:
+    day 1: 35 min hill
+    day 2: 7M easy
+    day 3: 60 min tempo
+    day 4: Rest
+    day 5: 4M easy
+    day 6: 15M
+    day 7: Rest
+    total: ''
+  week 14:
+    day 1: 40 min hill
+    day 2: 8M easy
+    day 3: 40 min tempo
+    day 4: Rest
+    day 5: 4M easy
+    day 6: 12M
+    day 7: Rest
+    total: ''
+  week 15:
+    day 1: 30 min hill
+    day 2: 10M easy
+    day 3: 20 min tempo
+    day 4: Rest
+    day 5: 3M easy
+    day 6: 9M
+    day 7: Rest
+    total: ''
+  week 16:
+    day 1: 4M easy
+    day 2: 4M easy
+    day 3: 3M easy
+    day 4: Rest
+    day 5: 2M easy
+    day 6: Race Day - 26.2M
+    day 7: Rest
+    total: ''
+source: https://www.rei.com/learn/expert-advice/trail-running-half-marathon-marathon-training.html
+templateName: 26.2 M Easy
