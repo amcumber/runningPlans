@@ -1,4 +1,4 @@
-arrow==0.14.7
+arrow==0.15.1
 ics==0.7
 numpy==1.18.4
 pandas==1.0.4
